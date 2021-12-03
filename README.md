@@ -11,10 +11,11 @@ My soldering job definitely could be better, but its been a while since I've sol
 
 
 # Notes
-- The case, knobs and keycaps were designed in Fusion 360 and 3d printed by me.
+- The case, knobs and keycaps were designed in Fusion 360 and 3D printed by me.
 - Code written in Arduino using the Keyboard, Mouse, and Encoder libraries.
 - Using standard mechanical keyboard switches - in this case Kailh Box Navy switches
 - The microcontroller is a SparkFun Qwiic Pro Micro - USB-C (ATmega32U4)
+
 
 
 
