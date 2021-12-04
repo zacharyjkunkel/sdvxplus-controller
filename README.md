@@ -1,6 +1,6 @@
 # sdvxplus-controller
 
-This is my fully custom Sound Voltex (sdvx) controller that has enough buttons to play pretty much any other mania style rhythm game.
+This is my fully custom Sound Voltex (sdvx) controller that has enough buttons to play pretty much any other mania style rhythm game. The microcontroller is running Arduino and taking advantage of its many libraries for simplicity.
 ![20211203_172135_2](https://user-images.githubusercontent.com/95504904/144685637-27c9d163-fd02-41ed-aade-0c5286d8aecc.jpg)
 
 ![20211203_172153](https://user-images.githubusercontent.com/95504904/144685624-b5832a84-6c20-4893-8d42-1e8b78b1f5c0.jpg)
@@ -15,6 +15,7 @@ My soldering job definitely could have been better.
 - Code written in Arduino using the Keyboard, Mouse, and Encoder libraries.
 - Using standard mechanical keyboard switches - in this case Kailh Box Navy switches
 - The microcontroller is a SparkFun Qwiic Pro Micro - USB-C (ATmega32U4)
+- I definitely could have simplified the design by using the internal pull up resistors on the microcontroller rather than external pull down resistors like I am currently using.
 
 
 
