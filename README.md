@@ -22,4 +22,4 @@ My soldering job definitely could have been better.
 I was inspired by other projects like  
 https://github.com/speedypotato/Pocket-SDVX  
 https://github.com/mon/PocketVoltex  
-I wanted a device that could handle more inputs so I got to work on making my own.
+but I wanted a device that could handle more inputs so I got to work on making my own.
